@@ -1,0 +1,12 @@
+[submodule "dina"]
+	path = dina
+	url = https://github.com/const-sambird/dina
+[submodule "adda"]
+	path = adda
+	url = https://github.com/const-sambird/adda
+[submodule "extend-dist"]
+	path = extend-dist
+	url = https://github.com/const-sambird/extend-dist
+[submodule "adda-cplex"]
+	path = adda-cplex
+	url = https://github.com/const-sambird/adda-cplex
